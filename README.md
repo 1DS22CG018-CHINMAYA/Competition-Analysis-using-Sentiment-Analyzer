@@ -32,3 +32,8 @@ This project moves beyond end-to-end black-box modeling by implementing a **Hybr
 * `NLTK`
 * `Scikit-Learn`
 * `Zero-Shot Classification`
+
+---
+## Infographic
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/8db063bc-76bf-4ae8-99ce-933d703902ff" />
+
